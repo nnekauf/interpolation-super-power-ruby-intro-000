@@ -2,7 +2,7 @@ def display_rainbow(colors)
   puts "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
 end
 
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 puts "the first color in the rainbow is : #{colors [0]}"
 puts "the second color in the rainbow is : #{colors [1]}"
 puts "the third color in the rainbow is : #{colors [2]}"
